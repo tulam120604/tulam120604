@@ -33,7 +33,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/t%C3%BA-l%C3%A2m-7a560b353/" target="blank">
+<a href="https://www.linkedin.com/in/t%C3%BA-l%C3%A2m-7a560b353/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
 </a>
 <a href="mailto:tulam1206044@gmail.com" target="blank">
